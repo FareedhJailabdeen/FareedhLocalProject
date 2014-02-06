@@ -3,7 +3,7 @@ package net.viralpatel.struts2.action;
 import com.opensymphony.xwork2.ActionSupport;
 
 //this changes from master...mast....fareedh change for git flow
-
+//new chage for source tree
 public class LoginAction extends ActionSupport {
     private String username;
     private String password;
