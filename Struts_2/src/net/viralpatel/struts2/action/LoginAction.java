@@ -1,7 +1,7 @@
 package net.viralpatel.struts2.action;
 
 import com.opensymphony.xwork2.ActionSupport;
-//this changes from master...mast
+//this changes from master
 public class LoginAction extends ActionSupport {
     private String username;
     private String password;
