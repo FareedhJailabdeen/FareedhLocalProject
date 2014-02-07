@@ -1,7 +1,7 @@
 package net.viralpatel.struts2.action;
 
 import com.opensymphony.xwork2.ActionSupport;
-//.....this is for hot fix changes......fareedh 123456
+//.....this is for hot fix changes......fareedh 123456.....anand
 public class LoginAction extends ActionSupport {
     private String username;
     private String password;
