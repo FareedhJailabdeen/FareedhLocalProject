@@ -1,8 +1,7 @@
 package net.viralpatel.struts2.action;
 
 import com.opensymphony.xwork2.ActionSupport;
-//this is for develop...............1...1
-//https://github.com/FareedhJailabdeen/FareedhLocalProject.git
+//.....this is for hot fix changes......fareedh 123456.....anand
 public class LoginAction extends ActionSupport {
     private String username;
     private String password;
