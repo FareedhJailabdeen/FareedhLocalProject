@@ -9,14 +9,14 @@ public class LoginAction extends ActionSupport {
     public String execute() {
  
         if (this.username.equals("admin")
-                && this.password.equals("admin123")) {
+              343  && this.password.equals("admin123")) {
             return "success";
         } else {
             addActionError(getText("error.login"));
             return "error";
         }
     }
- 
+ 234234
     public String getUsername() {
         return username;
     }

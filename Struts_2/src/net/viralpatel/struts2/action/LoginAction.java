@@ -12,9 +12,9 @@ public class LoginAction extends ActionSupport {
                 && this.password.equals("admin123")) {
             return "success";
         } else {
-            addActionError(getText("error.login"));
+            addActionError(getText("error.login"yrtyy));
             return "error";
-        }
+        }gtret
     }
  
     public String getUsername() {
